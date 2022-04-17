@@ -154,6 +154,70 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Avallain",
+          "image": {
+            "alt": "android-chrome-512x512-1.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/17/abb23703-7ea4-4190-87b2-9e434690f9b9_android-chrome-512x5.png"
+          },
+          "URL": "https://www.avallain.com"
+        },
+        "roles": [
+          {
+            "name": "Freelance Frontend Developer",
+            "startDate": "2020-03-01",
+            "finishDate": "2022-01-01",
+            "challenges": [
+              {
+                "description": "After S1M I had a two-year stint working as a freelancer for Avallain. Avallain is a e-learning company where work on a content generator for education. From exams, interactive e-book generation, to the typical exercises at the end of a chapter in educational books for all ages. During this period I change the stack using React as the main framework, updating the older parts made in jQuery and creating new ones."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Redux",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              },
+              {
+                "name": "Jest",
+                "type": "technology"
+              },
+              {
+                "name": "Redux-Saga",
+                "type": "technology"
+              },
+              {
+                "name": "TestingLibrary",
+                "type": "technology"
+              },
+              {
+                "name": "StyledComponents",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
