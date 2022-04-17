@@ -98,6 +98,62 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Veleta Solutions - Swiss1Mobile",
+          "image": {
+            "alt": "logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/17/2518f2b3-2bc1-41f2-a396-eca9f88df438_logo.png"
+          },
+          "URL": "http://www.veleta-solutions.com"
+        },
+        "roles": [
+          {
+            "name": "Frontend Developer",
+            "startDate": "2018-08-01",
+            "finishDate": "2020-03-01",
+            "challenges": [
+              {
+                "description": "In 2018 being totally burn because my team at NGA it smaller day by day, I have more work that I can handle, and no body have time to sit with me and talk about the problems we have with the lack of developer (of course without a competitive salary) I decided to look for a new challenge, the only requisite I have is to maintain the work at home, which is not easy in this country, and finally move to a new company, Veleta Solutions, Spanish subsidiary of Swiss1Mobile.\n\nS1M is a little Swiss company that made “tailored handmade” solutions for SMEs. We are few developers, work like a little startup, we works in pairs (FE - BE), in the technical side we use Angular as FE for all projects, apart from did the code here, I also have to travel to Swiss sometimes a year to get direct feedback from clients or be with them some days and see how the work or use our products. Here a did a lot of projects in different areas, with is nice, for example made a little app to help a manager to generate letter for his stack-holders, create and app to manage boat and crews, or to did the inventory with scanners."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Cordova",
+                "type": "technology"
+              },
+              {
+                "name": "Mocha",
+                "type": "technology"
+              },
+              {
+                "name": "Jasmine",
+                "type": "technology"
+              },
+              {
+                "name": "Ionic",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
