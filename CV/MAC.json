@@ -203,6 +203,20 @@
         {
           "name": "CSS",
           "type": "technology"
+        },
+        {
+          "name": "HTML",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "WordPress",
+          "type": "technology"
         }
       ]
     }
