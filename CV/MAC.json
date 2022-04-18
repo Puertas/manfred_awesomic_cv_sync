@@ -476,7 +476,11 @@
         "institution": {
           "name": "UGR (Granada University) - UNED",
           "description": "I started my computer degree after school but due to life circumstances I had to combine it with work. That degree ended up being extinguished when I had a few subjects left to finish.\n\nLast Year Student (49.5 Credits To Finish)\nGrade point average: 1.936 (over 4) - 7.417 (over 10)\n\nAfter that I have to move to the actual Grade (on UNED university) and And I'm trying to finish it, little by little, with the time I can take out in the day to day.",
-          "URL": "https://etsiit.ugr.es"
+          "URL": "https://etsiit.ugr.es",
+          "image": {
+            "alt": "screenshot.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/33e16415-ebdf-450d-9d55-6e788024ce42_screenshot.png"
+          }
         },
         "linkedCompetences": [
           {
