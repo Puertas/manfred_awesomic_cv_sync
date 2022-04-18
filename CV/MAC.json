@@ -218,6 +218,45 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Triggle",
+          "image": {
+            "alt": "1562833606587.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/d27c3b88-823a-4467-97a4-dd30033e3688_1562833606587.jpeg"
+          },
+          "URL": "https://www.triggle.app/"
+        },
+        "roles": [
+          {
+            "name": "Frontend Lead Developer",
+            "startDate": "2022-01-01",
+            "challenges": [
+              {
+                "description": "My last adventure is on Triggle as Front-end Lead. Apart for my usual development tasks (with React, Next, Jest, Cypress, Styled-components Node+Express ...) I'm also doing mentoring for the new and juniors members of the team, trying to share with them good practices and JS knowledge, and of course learning a lot from them also. I'm also more actively helping on management and decision taking in front-end related tasks."
+              }
+            ],
+            "competences": [
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "NextJS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
