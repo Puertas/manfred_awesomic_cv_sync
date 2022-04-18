@@ -461,6 +461,7 @@
         "institution": {
           "name": "Cambridge",
           "description": "English B2 Certificate",
+          "URL": "https://www.cambridgeenglish.org/es/",
           "image": {
             "alt": "Titulo_First_Certificate.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/4fde4e9d-ab86-4cd8-b656-1916ade32fa4_titulo_first_certifi.png"
