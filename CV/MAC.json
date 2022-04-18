@@ -37,70 +37,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "NGA Human Resources",
-          "image": {
-            "alt": "1586937918990.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/17/e847ca16-b349-4904-ac24-19d886ddb56e_1586937918990.jpeg"
-          },
-          "URL": "https://www.alight.com/es/ngahr"
-        },
-        "roles": [
-          {
-            "name": "Frontend Developer",
-            "startDate": "2011-12-01",
-            "finishDate": "2018-08-01",
-            "challenges": [
-              {
-                "description": "After the first line with the TLDR; a bit of background about my professional life, I started my career working for NGA Human Resources in 2011. The company (the “tarugos” will call this a “carnica”) hired my as internship to help their Framework team, at that time FE FWK are not as usual as it today and they need a hand doing the shared component for EuHReka their HRIS platform. \n\nWe built shared component as a table with multiple function, a dynamic form connected with SAP Info-types, wizard, etc to do this we did our own CSS FWK (no bootstrap in the old times) and on JS side we start working with Prototype, old Jquery’s like library, and finally move to Jquery when became more popular. But mainly it old good plain JS, HTML and CSS\n\nIn NGA I work in more side project, like a Mobile version of EuHReka, we start using Backbone, and with the years move it to Cordova/Ionic.\n\nAfter the EuHReka, I join to the FWK team of a new project hrX, what pretend to be a connection between HRIS with a conversational HR bot. In the technical side we did it with Angular (formerly Angular 2+), our own version of Bootstrap and for “shared component” with other product we use WebComponent with Stencil.\n\nGood things I can say about NGA, but also my partners there are awesome, I really enjoy my time with them. Also the company push you, as all these big companies do, sometimes to much, but that result in a bigger grown as developer in the good side, in the bad side, you start being burned, more-less when the salary will never be as good as it should be. Another very good thing I found in NGA is that they allow me to Work from home, it start with a couple of days, but with years I just fo to office a 4 days a month, with for me it’s the most valuable perk, because that way I can move with my family when needed (my wife works as public official and we move a lot)."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Angular2+",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "Cordova",
-                "type": "technology"
-              },
-              {
-                "name": "jQuery",
-                "type": "technology"
-              },
-              {
-                "name": "Mocha",
-                "type": "technology"
-              },
-              {
-                "name": "Jasmine",
-                "type": "technology"
-              },
-              {
-                "name": "Ionic",
-                "type": "technology"
-              },
-              {
-                "name": "Backbone",
-                "type": "technology"
-              },
-              {
-                "name": "Prototype",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Veleta Solutions - Swiss1Mobile",
           "image": {
             "alt": "logo.png",
@@ -213,6 +149,70 @@
               },
               {
                 "name": "StyledComponents",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "NGA Human Resources",
+          "image": {
+            "alt": "1586937918990.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/17/e847ca16-b349-4904-ac24-19d886ddb56e_1586937918990.jpeg"
+          },
+          "URL": "https://www.alight.com/es/ngahr"
+        },
+        "roles": [
+          {
+            "name": "Frontend Developer",
+            "startDate": "2011-12-01",
+            "finishDate": "2018-08-01",
+            "challenges": [
+              {
+                "description": "I started my career working for NGA Human Resources in 2011. The company hired my as internship to help their Framework team, at that time FE FWK are not as usual as it today and they need a hand doing the shared component for EuHReka their HRIS platform. \n\nWe built shared component as a table with multiple function, a dynamic form connected with SAP Info-types, wizard, etc to do this we did our own CSS FWK (no bootstrap in the old times) and on JS side we start working with Prototype, old Jquery’s like library, and finally move to Jquery when became more popular. But mainly it old good plain JS, HTML and CSS\n\nIn NGA I work in more side project, like a Mobile version of EuHReka, we start using Backbone, and with the years move it to Cordova/Ionic.\n\nAfter the EuHReka, I join to the FWK team of a new project hrX, what pretend to be a connection between HRIS with a conversational HR bot. In the technical side we did it with Angular (formerly Angular 2+), our own version of Bootstrap and for “shared component” with other product we use WebComponent with Stencil.\n\nGood things I can say about NGA, but also my partners there are awesome, I really enjoy my time with them. Also the company push you, as all these big companies do, sometimes to much, but that result in a bigger grown as developer in the good side, in the bad side, you start being burned, more-less when the salary will never be as good as it should be. Another very good thing I found in NGA is that they allow me to Work from home, it start with a couple of days, but with years I just fo to office a 4 days a month, with for me it’s the most valuable perk, because that way I can move with my family when needed (my wife works as public official and we move a lot)."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Cordova",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              },
+              {
+                "name": "Mocha",
+                "type": "technology"
+              },
+              {
+                "name": "Jasmine",
+                "type": "technology"
+              },
+              {
+                "name": "Ionic",
+                "type": "technology"
+              },
+              {
+                "name": "Backbone",
+                "type": "technology"
+              },
+              {
+                "name": "Prototype",
                 "type": "technology"
               }
             ]
