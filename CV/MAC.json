@@ -450,6 +450,23 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Cambridge English Level 1 Certificate in ESOL International (B2)",
+        "startDate": "2013-12-01",
+        "finishDate": "2014-02-01",
+        "institution": {
+          "name": "Cambridge",
+          "description": "English B2 Certificate",
+          "image": {
+            "alt": "Titulo_First_Certificate.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/4fde4e9d-ab86-4cd8-b656-1916ade32fa4_titulo_first_certifi.png"
+          }
+        }
+      }
     ]
   },
   "careerPreferences": {
