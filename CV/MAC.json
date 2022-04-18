@@ -286,6 +286,38 @@
           }
         ]
       }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "1st Prize in the 1st Edition of the Dept. of Signal Theory, Telematics and Communication's Technological Challenge",
+          "description": "Part of the winning group (IPSnav) in the 1st Edition of the Technological Challenge from Department of Signal Theory, Telematics and Communications at the University Of Granada (Fall 2011)\n\nWe did a project to triangulate a device position on the University building using the routers and signal intensity.",
+          "URL": "https://etsiit.ugr.es",
+          "image": {
+            "alt": "DiplomaDesafio_eng.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/bb61a742-d130-475b-a489-7d3b9bd6c58d_diplomadesafio_eng.jpg"
+          }
+        },
+        "type": "achievement",
+        "publishingDate": "2011-11-01",
+        "relatedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          "Challenge"
+        ]
+      }
     ]
   },
   "knowledge": {
