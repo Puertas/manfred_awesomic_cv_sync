@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -15,7 +15,10 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/17/7c92d63f-1b3d-46f6-9858-3cda5ec5e68e_jose_puertas.jpg"
       },
       "location": {
-        "notes": "Granada / Malaga"
+        "country": "España",
+        "region": "Andalucía",
+        "municipality": "Granada",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -24,12 +27,12 @@
         "URL": "https://github.com/Puertas"
       },
       {
-        "type": "twitter",
-        "URL": "https://twitter.com/benyer"
-      },
-      {
         "type": "other",
         "URL": "https://gitlab.com/Puertas"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/benyer"
       }
     ]
   },
@@ -37,30 +40,33 @@
     "jobs": [
       {
         "organization": {
-          "name": "Veleta Solutions - Swiss1Mobile",
+          "name": "Triggle",
           "image": {
-            "alt": "logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/17/2518f2b3-2bc1-41f2-a396-eca9f88df438_logo.png"
+            "alt": "1562833606587.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/d27c3b88-823a-4467-97a4-dd30033e3688_1562833606587.jpeg"
           },
-          "URL": "http://www.veleta-solutions.com"
+          "URL": "https://www.triggle.app/"
         },
         "roles": [
           {
-            "name": "Frontend Developer",
-            "startDate": "2018-08-01",
-            "finishDate": "2020-03-01",
+            "name": "(Co-Lead) Frontend Developer",
+            "startDate": "2022-01-01",
             "challenges": [
               {
-                "description": "In 2018 being totally burn because my team at NGA it smaller day by day, I have more work that I can handle, and no body have time to sit with me and talk about the problems we have with the lack of developer (of course without a competitive salary) I decided to look for a new challenge, the only requisite I have is to maintain the work at home, which is not easy in this country, and finally move to a new company, Veleta Solutions, Spanish subsidiary of Swiss1Mobile.\n\nS1M is a little Swiss company that made “tailored handmade” solutions for SMEs. We are few developers, work like a little startup, we works in pairs (FE - BE), in the technical side we use Angular as FE for all projects, apart from did the code here, I also have to travel to Swiss sometimes a year to get direct feedback from clients or be with them some days and see how the work or use our products. Here a did a lot of projects in different areas, with is nice, for example made a little app to help a manager to generate letter for his stack-holders, create and app to manage boat and crews, or to did the inventory with scanners."
+                "description": "My last adventure is on Triggle as Front-end Lead. Apart for my usual development tasks (with React, Next, Jest, Cypress, Styled-components Node+Express ...) I'm doing mentoring for the new and juniors members of the team, trying to share with them good practices and JS knowledge, and of course learning a lot from them also. I'm also more actively helping on management and decision taking in front-end related tasks.\n\nAs well I'm getting out of my comfort zone and doing some backend development with Node + Express and Mongo in our \"Backend for Front\"."
               }
             ],
             "competences": [
               {
-                "name": "JavaScript",
+                "name": "CSS",
                 "type": "technology"
               },
               {
-                "name": "Angular2+",
+                "name": "Cypress",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
                 "type": "technology"
               },
               {
@@ -68,23 +74,31 @@
                 "type": "technology"
               },
               {
-                "name": "CSS",
+                "name": "JavaScript",
                 "type": "technology"
               },
               {
-                "name": "Cordova",
+                "name": "Jest",
                 "type": "technology"
               },
               {
-                "name": "Mocha",
+                "name": "NextJS",
                 "type": "technology"
               },
               {
-                "name": "Jasmine",
+                "name": "NodeJS",
                 "type": "technology"
               },
               {
-                "name": "Ionic",
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "StyledComponents",
+                "type": "technology"
+              },
+              {
+                "name": "TestingLibrary",
                 "type": "technology"
               }
             ]
@@ -112,11 +126,7 @@
             ],
             "competences": [
               {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "React",
+                "name": "CSS",
                 "type": "technology"
               },
               {
@@ -124,15 +134,7 @@
                 "type": "technology"
               },
               {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "Redux",
-                "type": "technology"
-              },
-              {
-                "name": "jQuery",
+                "name": "JavaScript",
                 "type": "technology"
               },
               {
@@ -140,7 +142,19 @@
                 "type": "technology"
               },
               {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "Redux",
+                "type": "technology"
+              },
+              {
                 "name": "Redux-Saga",
+                "type": "technology"
+              },
+              {
+                "name": "StyledComponents",
                 "type": "technology"
               },
               {
@@ -148,7 +162,63 @@
                 "type": "technology"
               },
               {
-                "name": "StyledComponents",
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Veleta Solutions - Swiss1Mobile",
+          "image": {
+            "alt": "logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/17/2518f2b3-2bc1-41f2-a396-eca9f88df438_logo.png"
+          },
+          "URL": "http://www.veleta-solutions.com"
+        },
+        "roles": [
+          {
+            "name": "Frontend Developer",
+            "startDate": "2018-08-01",
+            "finishDate": "2020-03-01",
+            "challenges": [
+              {
+                "description": "In 2018 being totally burn because my team at NGA it smaller day by day, I have more work that I can handle, and no body have time to sit with me and talk about the problems we have with the lack of developer (of course without a competitive salary) I decided to look for a new challenge, the only requisite I have is to maintain the work at home, which is not easy in this country, and finally move to a new company, Veleta Solutions, Spanish subsidiary of Swiss1Mobile.\n\nS1M is a little Swiss company that made “tailored handmade” solutions for SMEs. We are few developers, work like a little startup, we works in pairs (FE - BE), in the technical side we use Angular as FE for all projects, apart from did the code here, I also have to travel to Swiss sometimes a year to get direct feedback from clients or be with them some days and see how the work or use our products. Here a did a lot of projects in different areas, with is nice, for example made a little app to help a manager to generate letter for his stack-holders, create and app to manage boat and crews, or to did the inventory with scanners."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Cordova",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "Ionic",
+                "type": "technology"
+              },
+              {
+                "name": "Jasmine",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Mocha",
                 "type": "technology"
               }
             ]
@@ -180,7 +250,7 @@
                 "type": "technology"
               },
               {
-                "name": "HTML",
+                "name": "Backbone",
                 "type": "technology"
               },
               {
@@ -192,15 +262,7 @@
                 "type": "technology"
               },
               {
-                "name": "jQuery",
-                "type": "technology"
-              },
-              {
-                "name": "Mocha",
-                "type": "technology"
-              },
-              {
-                "name": "Jasmine",
+                "name": "HTML",
                 "type": "technology"
               },
               {
@@ -208,78 +270,19 @@
                 "type": "technology"
               },
               {
-                "name": "Backbone",
+                "name": "Jasmine",
+                "type": "technology"
+              },
+              {
+                "name": "Mocha",
                 "type": "technology"
               },
               {
                 "name": "Prototype",
                 "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Triggle",
-          "image": {
-            "alt": "1562833606587.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/d27c3b88-823a-4467-97a4-dd30033e3688_1562833606587.jpeg"
-          },
-          "URL": "https://www.triggle.app/"
-        },
-        "roles": [
-          {
-            "name": "(Co-Lead) Frontend Developer",
-            "startDate": "2022-01-01",
-            "challenges": [
-              {
-                "description": "My last adventure is on Triggle as Front-end Lead. Apart for my usual development tasks (with React, Next, Jest, Cypress, Styled-components Node+Express ...) I'm doing mentoring for the new and juniors members of the team, trying to share with them good practices and JS knowledge, and of course learning a lot from them also. I'm also more actively helping on management and decision taking in front-end related tasks.\n\nAs well I'm getting out of my comfort zone and doing some backend development with Node + Express and Mongo in our \"Backend for Front\"."
-              }
-            ],
-            "competences": [
-              {
-                "name": "JavaScript",
-                "type": "technology"
               },
               {
-                "name": "NodeJS",
-                "type": "technology"
-              },
-              {
-                "name": "React",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "Express",
-                "type": "technology"
-              },
-              {
-                "name": "NextJS",
-                "type": "technology"
-              },
-              {
-                "name": "Jest",
-                "type": "technology"
-              },
-              {
-                "name": "Cypress",
-                "type": "technology"
-              },
-              {
-                "name": "TestingLibrary",
-                "type": "technology"
-              },
-              {
-                "name": "StyledComponents",
+                "name": "jQuery",
                 "type": "technology"
               }
             ]
@@ -302,15 +305,15 @@
         "publishingDate": "2011-11-01",
         "relatedCompetences": [
           {
-            "name": "JavaScript",
-            "type": "technology"
-          },
-          {
             "name": "CSS",
             "type": "technology"
           },
           {
             "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
             "type": "technology"
           }
         ],
@@ -323,10 +326,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Spanish"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "English"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
@@ -338,7 +343,25 @@
       },
       {
         "skill": {
-          "name": "NodeJS",
+          "name": "Cordova",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ionic",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Backbone",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
           "type": "technology"
         }
       },
@@ -350,7 +373,7 @@
       },
       {
         "skill": {
-          "name": "React",
+          "name": "Sass",
           "type": "technology"
         }
       },
@@ -368,25 +391,7 @@
       },
       {
         "skill": {
-          "name": "Webpack",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Express",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "TypeScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Cordova",
+          "name": "React",
           "type": "technology"
         }
       },
@@ -410,31 +415,13 @@
       },
       {
         "skill": {
+          "name": "StyledComponents",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Less CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Sass",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Ionic",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "TestingLibrary",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Backbone",
           "type": "technology"
         }
       },
@@ -446,28 +433,30 @@
       },
       {
         "skill": {
-          "name": "StyledComponents",
+          "name": "Webpack",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TestingLibrary",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Express",
           "type": "technology"
         }
       }
     ],
     "studies": [
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Cambridge English Level 1 Certificate in ESOL International (B2)",
-        "startDate": "2013-12-01",
-        "finishDate": "2014-02-01",
-        "institution": {
-          "name": "Cambridge",
-          "description": "English B2 Certificate",
-          "URL": "https://www.cambridgeenglish.org/",
-          "image": {
-            "alt": "Titulo_First_Certificate.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/4fde4e9d-ab86-4cd8-b656-1916ade32fa4_titulo_first_certifi.png"
-          }
-        }
-      },
       {
         "studyType": "officialDegree",
         "degreeAchieved": false,
@@ -484,14 +473,30 @@
         },
         "linkedCompetences": [
           {
-            "name": "JAVA",
+            "name": "C++",
             "type": "technology"
           },
           {
-            "name": "C++",
+            "name": "JAVA",
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Cambridge English Level 1 Certificate in ESOL International (B2)",
+        "startDate": "2013-12-01",
+        "finishDate": "2014-02-01",
+        "institution": {
+          "name": "Cambridge",
+          "description": "English B2 Certificate",
+          "URL": "https://www.cambridgeenglish.org/",
+          "image": {
+            "alt": "Titulo_First_Certificate.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/4fde4e9d-ab86-4cd8-b656-1916ade32fa4_titulo_first_certifi.png"
+          }
+        }
       }
     ]
   },
@@ -507,7 +512,23 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Angular2+",
+          "type": "technology"
+        },
+        {
+          "name": "CSS",
+          "type": "technology"
+        },
+        {
+          "name": "HTML",
+          "type": "technology"
+        },
+        {
           "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "NextJS",
           "type": "technology"
         },
         {
@@ -521,22 +542,6 @@
         {
           "name": "Vue",
           "type": "technology"
-        },
-        {
-          "name": "Angular2+",
-          "type": "technology"
-        },
-        {
-          "name": "NextJS",
-          "type": "technology"
-        },
-        {
-          "name": "CSS",
-          "type": "technology"
-        },
-        {
-          "name": "HTML",
-          "type": "technology"
         }
       ],
       "discardedCompetences": [
@@ -548,7 +553,12 @@
           "name": "WordPress",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Frontend Developer",
+        "Mobile Developer"
       ]
-    }
+    },
+    "status": "openToOffers"
   }
 }
