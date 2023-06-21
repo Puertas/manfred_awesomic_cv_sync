@@ -9,30 +9,22 @@
       "name": "Jose Antonio",
       "surnames": "Puertas Pertiñez",
       "title": "Husband, dad and old school Frontend developer",
-      "description": "",
+      "description": "Hello! My Name is Jose and I’m a Frontend Developer from Granada. \n\nAfter the first line with the TLDR; you can find about my professional life on the experience section. I speak there deeply about projects and what tools and language I use as developer, but about my “likes” I have to say that I know lot of people dislike JavaScript but I really like it, I know can be a mess, but also it’s very flexible and that match with me, and you can do very good code in JS if you have the knowledge and learn about good practice, other languages ensure that you have to follow, but this lack on JS make you have to read and be up to date, and that is a good things.\n\nAlso love CSS, I spent a lot of time “fighting” with it in the old times, with Internet Explorer 6 in all his gracious, but that endure you, I know can be difficult and frustrating sometimes, but again at the end it’s a very handy tool for designing UIs.\n\nFar from works and keyboard, I’m the husband of an incredible woman, Elia, and also the father of a little “devil” Alejandro who is the joy or our life’s. They are the more important thing in my life and I always try to be with them as much as possible, I decline lot of offer from other cities and countries, even very good one, because I want to be with my family everyday, don’t want to just see them on weekends or things like that.\n\nMy hobbies are, apart from coding, because we developer sure are crazy, are Swimming, Basketball and video games. \n\nI try to go swimming 3 days a week, and swim about 1,5km each. Swimming is the sport that most disconnects me from work and put my brain in new clear state, if I have a bad day and my head is full of work problem I just start swimming and when I finish it's gone. \n\nI play basketball since I was 5, it's my favourite sport, but today It's difficult to play it, have no time or people don't want to join me, you know football country, so I have to settle watching the NBA.\n\nAbout video games, I like it a lot since I was a kid playing with a SNES. I'm and old school player and prefer the single player games, like God of war, The last of us or Dark Souls. I spent less time that I want here, because Alejandro don't let us a lot of free time, but I will wait for the retirement.\n\nAlso I like technology in general, read articles and listen podcasts about it, also have to admit that I have a problem with Mechanical Keyboards and always is a good time to buy a new one with that new switch everybody is talking about.\n\nAnother of my favourite thing in life is travel. I have the luck to travel a lot but always less than I like, with the baby we have to pause a bit our travels, but we are willing to take a plane and look for a new country. \n\nI think that's all, hope this \"introduction\" it's not to big, and thanks all for the time",
       "avatar": {
-        "alt": "Jose_Puertas.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/17/7c92d63f-1b3d-46f6-9858-3cda5ec5e68e_jose_puertas.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/17/7c92d63f-1b3d-46f6-9858-3cda5ec5e68e_jose_puertas.jpg",
+        "alt": "Jose_Puertas.jpg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJfcIyLeb8cQ0Rcg1g0533WJI)",
         "country": "España",
         "region": "Andalucía",
-        "municipality": "Granada",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Granada"
       }
     },
     "relevantLinks": [
       {
-        "type": "github",
-        "URL": "https://github.com/Puertas"
-      },
-      {
         "type": "other",
         "URL": "https://gitlab.com/Puertas"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/benyer"
       }
     ]
   },
@@ -42,8 +34,8 @@
         "organization": {
           "name": "Triggle",
           "image": {
-            "alt": "1562833606587.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/d27c3b88-823a-4467-97a4-dd30033e3688_1562833606587.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/d27c3b88-823a-4467-97a4-dd30033e3688_1562833606587.jpeg",
+            "alt": "1562833606587.jpeg"
           },
           "URL": "https://www.triggle.app/"
         },
@@ -109,8 +101,8 @@
         "organization": {
           "name": "Avallain",
           "image": {
-            "alt": "android-chrome-512x512-1.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/17/abb23703-7ea4-4190-87b2-9e434690f9b9_android-chrome-512x5.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/17/abb23703-7ea4-4190-87b2-9e434690f9b9_android-chrome-512x5.png",
+            "alt": "android-chrome-512x512-1.png"
           },
           "URL": "https://www.avallain.com"
         },
@@ -173,8 +165,8 @@
         "organization": {
           "name": "Veleta Solutions - Swiss1Mobile",
           "image": {
-            "alt": "logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/17/2518f2b3-2bc1-41f2-a396-eca9f88df438_logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/17/2518f2b3-2bc1-41f2-a396-eca9f88df438_logo.png",
+            "alt": "logo.png"
           },
           "URL": "http://www.veleta-solutions.com"
         },
@@ -229,8 +221,8 @@
         "organization": {
           "name": "NGA Human Resources",
           "image": {
-            "alt": "1586937918990.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/17/e847ca16-b349-4904-ac24-19d886ddb56e_1586937918990.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/17/e847ca16-b349-4904-ac24-19d886ddb56e_1586937918990.jpeg",
+            "alt": "1586937918990.jpeg"
           },
           "URL": "https://www.alight.com/es/ngahr"
         },
@@ -297,12 +289,15 @@
           "description": "Part of the winning group (IPSnav) in the 1st Edition of the Technological Challenge from Department of Signal Theory, Telematics and Communications at the University Of Granada (Fall 2011)\n\nWe did a project to triangulate a device position on the University building using the routers and signal intensity.",
           "URL": "https://etsiit.ugr.es",
           "image": {
-            "alt": "DiplomaDesafio_eng.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/bb61a742-d130-475b-a489-7d3b9bd6c58d_diplomadesafio_eng.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/bb61a742-d130-475b-a489-7d3b9bd6c58d_diplomadesafio_eng.jpg",
+            "alt": "DiplomaDesafio_eng.jpg"
           }
         },
         "type": "achievement",
         "publishingDate": "2011-11-01",
+        "tags": [
+          "Challenge"
+        ],
         "relatedCompetences": [
           {
             "name": "CSS",
@@ -316,9 +311,6 @@
             "name": "JavaScript",
             "type": "technology"
           }
-        ],
-        "tags": [
-          "Challenge"
         ]
       }
     ]
@@ -326,30 +318,18 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
         "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
         "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Cordova",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Ionic",
+          "name": "Angular2+",
           "type": "technology"
         }
       },
@@ -361,19 +341,7 @@
       },
       {
         "skill": {
-          "name": "TypeScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Angular2+",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Sass",
+          "name": "Bootstrap",
           "type": "technology"
         }
       },
@@ -385,25 +353,7 @@
       },
       {
         "skill": {
-          "name": "Bootstrap",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NextJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jest",
+          "name": "Cordova",
           "type": "technology"
         }
       },
@@ -415,7 +365,25 @@
       },
       {
         "skill": {
-          "name": "StyledComponents",
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ionic",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jest",
           "type": "technology"
         }
       },
@@ -433,13 +401,7 @@
       },
       {
         "skill": {
-          "name": "Webpack",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "TestingLibrary",
+          "name": "NextJS",
           "type": "technology"
         }
       },
@@ -451,12 +413,58 @@
       },
       {
         "skill": {
-          "name": "Express",
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Sass",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "StyledComponents",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TestingLibrary",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Webpack",
           "type": "technology"
         }
       }
     ],
     "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Cambridge English Level 1 Certificate in ESOL International (B2)",
+        "startDate": "2013-12-01",
+        "institution": {
+          "name": "Cambridge",
+          "description": "English B2 Certificate",
+          "URL": "https://www.cambridgeenglish.org/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/4fde4e9d-ab86-4cd8-b656-1916ade32fa4_titulo_first_certifi.png",
+            "alt": "Titulo_First_Certificate.png"
+          }
+        },
+        "finishDate": "2014-02-01"
+      },
       {
         "studyType": "officialDegree",
         "degreeAchieved": false,
@@ -467,8 +475,8 @@
           "description": "I started my computer degree after school but due to life circumstances I had to combine it with work. That degree ended up being extinguished when I had a few subjects left to finish.\n\nLast Year Student (49.5 Credits To Finish)\nGrade point average: 1.936 (over 4) - 7.417 (over 10)\n\nAfter that I have to move to the actual Grade (on UNED university) and And I'm trying to finish it, little by little, with the time I can take out in the day to day.",
           "URL": "https://etsiit.ugr.es",
           "image": {
-            "alt": "screenshot.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/33e16415-ebdf-450d-9d55-6e788024ce42_screenshot.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/33e16415-ebdf-450d-9d55-6e788024ce42_screenshot.png",
+            "alt": "screenshot.png"
           }
         },
         "linkedCompetences": [
@@ -481,21 +489,25 @@
             "type": "technology"
           }
         ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
       },
       {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Cambridge English Level 1 Certificate in ESOL International (B2)",
-        "startDate": "2013-12-01",
-        "finishDate": "2014-02-01",
-        "institution": {
-          "name": "Cambridge",
-          "description": "English B2 Certificate",
-          "URL": "https://www.cambridgeenglish.org/",
-          "image": {
-            "alt": "Titulo_First_Certificate.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/4fde4e9d-ab86-4cd8-b656-1916ade32fa4_titulo_first_certifi.png"
-          }
+        "skill": {
+          "name": "Capacidad de mentorización",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
         }
       }
     ]
@@ -504,8 +516,21 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/jose-antonio-puertas-pertiñez-b2280354/"
+          "URL": "https://github.com/Puertas",
+          "type": "other"
+        },
+        {
+          "URL": "https://twitter.com/benyer",
+          "type": "other"
+        }
+      ],
+      "contactMails": [
+        "josepuertas@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "606844701",
+          "countryCode": "+34"
         }
       ]
     },
@@ -560,5 +585,9 @@
       ]
     },
     "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Difficult to say. I think my dream job for sure should be a Frontend Job, I did some BE things but FE is my passion, so I prefer a company where I can use HTML, JS and CSS, don’t bother the JS FWK (is any) because I learn various of them though the year, and I really like to learn new things.\n\nWith my actual needs, I also for sure will need the remote work, or work at home. As said in the introduction we move a lot and working form home allow me to be with my family and spent many time with them. Is not I don’t want to go to the office, this days I miss the office and my partner in fact, and when we have a final city I will be pleased to go to the office but today is something we need as family.\n\nAnother important thing is the company should be dynamic, I mean, I already be trapped in an old library and the company should not let us to introduce new “things” and no just because are cool and new but because sometime could be a big step to ease the work.\n\nTeammates for sure are the more important thing in a company, because works can be very difficult some time, but if you have good teammates who support and help you, together you can go though all obstacles. I have the luck to work with excellent professionals and human beings and that for sure the most important thing to have in your company.\n\nFlexibility on work schedules it also something important for me, all of us sometimes have little things that break the daily routine and it’s nice the company listen you and allow to tackle them if needed.",
+    "goodPractices": "TDD, Solid, DRY, KISS"
   }
 }
