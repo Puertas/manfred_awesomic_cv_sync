@@ -86,7 +86,7 @@
                 "type": "technology"
               },
               {
-                "name": "StyledComponents",
+                "name": "Styled Components",
                 "type": "technology"
               },
               {
@@ -146,7 +146,7 @@
                 "type": "technology"
               },
               {
-                "name": "StyledComponents",
+                "name": "Styled Components",
                 "type": "technology"
               },
               {
@@ -425,7 +425,7 @@
       },
       {
         "skill": {
-          "name": "StyledComponents",
+          "name": "Styled Components",
           "type": "technology"
         }
       },
@@ -517,11 +517,11 @@
       "publicProfiles": [
         {
           "URL": "https://github.com/Puertas",
-          "type": "other"
+          "type": "github"
         },
         {
           "URL": "https://twitter.com/benyer",
-          "type": "other"
+          "type": "twitter"
         }
       ],
       "contactMails": [
