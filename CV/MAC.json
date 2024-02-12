@@ -345,6 +345,12 @@
       },
       {
         "skill": {
+          "name": "Argo CD",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Backbone",
           "type": "technology"
         }
@@ -423,6 +429,12 @@
       },
       {
         "skill": {
+          "name": "Playwright",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "React",
           "type": "technology"
         }
@@ -441,6 +453,12 @@
       },
       {
         "skill": {
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "TestingLibrary",
           "type": "technology"
         }
@@ -448,6 +466,12 @@
       {
         "skill": {
           "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vite",
           "type": "technology"
         }
       },
