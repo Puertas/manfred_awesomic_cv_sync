@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
-    "language": "ES",
-    "MACVersion": "0.3"
+    "language": "EN",
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -22,6 +22,14 @@
       }
     },
     "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/Puertas"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/benyer"
+      },
       {
         "type": "other",
         "URL": "https://gitlab.com/Puertas"
@@ -319,10 +327,12 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Full professional proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -494,19 +504,19 @@
     "softSkills": [
       {
         "skill": {
-          "name": "Aprendizaje Continuo",
+          "name": "Continuous learning",
           "type": "practice"
         }
       },
       {
         "skill": {
-          "name": "Capacidad de mentorización",
+          "name": "Mentoring ability",
           "type": "practice"
         }
       },
       {
         "skill": {
-          "name": "Trabajo en equipo",
+          "name": "Team player",
           "type": "practice"
         }
       }
@@ -526,12 +536,6 @@
       ],
       "contactMails": [
         "josepuertas@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "606844701",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
