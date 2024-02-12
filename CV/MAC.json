@@ -49,11 +49,11 @@
         },
         "roles": [
           {
-            "name": "(Co-Lead) Frontend Developer",
+            "name": "(Team Lead) Frontend Developer",
             "startDate": "2022-01-01",
             "challenges": [
               {
-                "description": "My last adventure is on Triggle as Front-end Lead. Apart for my usual development tasks (with React, Next, Jest, Cypress, Styled-components Node+Express ...) I'm doing mentoring for the new and juniors members of the team, trying to share with them good practices and JS knowledge, and of course learning a lot from them also. I'm also more actively helping on management and decision taking in front-end related tasks.\n\nAs well I'm getting out of my comfort zone and doing some backend development with Node + Express and Mongo in our \"Backend for Front\"."
+                "description": "My last adventure is on Triggle as Front-end Lead. Apart for my usual development tasks (with React, Next, Jest, Cypress, Styled-components Node+Express ...) I'm doing mentoring for the new and juniors members of the team, trying to share with them good practices and JS knowledge, and of course learning a lot from them also. I'm also more actively helping on management and decision taking in front-end related tasks.\n\nAs well I'm getting out of my comfort zone and doing some backend development with Node + Express and Mongo in our \"Backend for Front\".\n\nSince January 2023 I'm also working as the team lead of the B2C product in our company, I hold the responsibility of directing and inspiring a dedicated team of six talented professionals."
               }
             ],
             "competences": [
